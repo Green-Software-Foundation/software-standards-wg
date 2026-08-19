@@ -6,7 +6,7 @@
 
 ## Appointments 
 Chair: Henry Richardson  | WattTime<br>
-Chair: Navveen Balani    | Accenture<br>
+Chair: Janardan Misra   | Accenture<br>
 
 ## GitHub Training 
 - [Getting started with GitHub](https://green-software-foundation.github.io/github-training/)
